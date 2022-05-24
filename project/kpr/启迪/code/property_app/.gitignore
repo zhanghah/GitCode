@@ -1,6 +1,0 @@
-unpackage/dist
-node_modules
-.hbuilderx
-.idea
-
-package-lock.json
