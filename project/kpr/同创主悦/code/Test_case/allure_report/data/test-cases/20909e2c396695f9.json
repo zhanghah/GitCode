@@ -1,0 +1,97 @@
+{
+  "uid" : "20909e2c396695f9",
+  "name" : "test_02_text",
+  "fullName" : "test_case.test_go_login.TestLogin#test_02_text",
+  "historyId" : "51ce0f81a1d80e3431bf869b18a42241",
+  "time" : {
+    "start" : 1653370817897,
+    "stop" : 1653370817898,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1653370786723,
+      "stop" : 1653370788068,
+      "duration" : 1345
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1653370823354,
+      "stop" : 1653370825590,
+      "duration" : 2236
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "flaky(reruns=5, reruns_delay=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_go_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-EF43S6R7"
+  }, {
+    "name" : "thread",
+    "value" : "14236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_go_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5f73ec7acffbe0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653370764435,
+        "stop" : 1653370764435,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=5, reruns_delay=1)" ]
+  },
+  "source" : "20909e2c396695f9.json",
+  "parameterValues" : [ ]
+}

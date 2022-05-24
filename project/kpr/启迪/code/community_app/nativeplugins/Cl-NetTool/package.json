@@ -1,0 +1,36 @@
+{
+	"name": "Cl-NetTool",
+	"id": "Cl-NetTool",
+	"version": "0.0.1",
+	"description": "网络连接状态工具",
+	"_dp_type":"nativeplugin",
+	"_dp_nativeplugin":{	
+		"ios":{
+			"plugins": [
+				{
+					"type":"module",
+					"name":"Cl-NetTool",
+					"class":"NetConnTool"
+				}
+			],
+			"integrateType":"library",
+			"deploymentTarget":"10.0"
+		},
+		"android": {
+			"plugins": [
+				{
+					"type":"module",
+					"name":"Cl-NetTool",
+					"class":"com.example.nettool.Tool"
+				}
+			],
+			 "permissions": [  
+			   "android.permission.ACCESS_NETWORK_STATE",
+				"android.permission.INTERNET"
+			 ], 
+			"integrateType": "aar"
+		}
+		
+		
+	}
+}

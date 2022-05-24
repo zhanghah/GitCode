@@ -1,0 +1,1 @@
+目录文件需要上传到静态资源服务器 comapp 目录对应访问地址：http://static.kupurui.cn/comapp/

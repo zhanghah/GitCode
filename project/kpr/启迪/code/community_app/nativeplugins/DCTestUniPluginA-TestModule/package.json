@@ -1,0 +1,19 @@
+{
+	"name": "DCTestUniPluginA-TestModule",
+	"id": "DCTestUniPluginA-TestModule",
+	"version": "0.0.1",
+	"description": "支付测试",
+	"_dp_type":"nativeplugin",
+	"_dp_nativeplugin":{	
+		"ios":{
+			"plugins": [
+				{
+					"type":"module",
+					"name":"DCTestUniPluginA-TestModule",
+					"class":"TestModule"
+				}
+			],
+			"integrateType":"library"
+		}
+	}
+}

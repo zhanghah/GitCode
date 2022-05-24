@@ -1,0 +1,14 @@
+渝哈哈
+平台后台地址
+http://yhhtest.kupurui.com/admin.php/Publics/login.html
+账号：admin
+密码：admin
+
+
+商家后台地址
+http://yhhtest.kupurui.com/mall_admin.php/mall_admin/Publics/login.html
+账号：电话
+密码：123456
+
+APP UI
+蓝湖地址：https://lanhuapp.com/web/#/item/project/board?pid=d837e3e6-07b7-443d-adeb-d6361a322442
